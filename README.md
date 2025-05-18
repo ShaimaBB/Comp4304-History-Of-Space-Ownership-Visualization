@@ -20,7 +20,6 @@ We deliver our findings via a professionally designed **infographic**, an **inte
 ## 🚀 Technologies Used
 
 ### Programming & Visualization
-- **Python 3.11+**
 - **Pandas** – Data processing
 - **Plotly** – Interactive charts & dashboard
 - **Matplotlib** – Static visualizations for infographic
@@ -28,11 +27,6 @@ We deliver our findings via a professionally designed **infographic**, an **inte
 - **Dash** – Web-based interactive dashboard
 - **Jupyter Notebook** – Prototyping and rendering infographic
 - **Voila** (optional) – Convert notebooks into standalone apps
-
-### Tools & Platforms
-- **Git / GitHub** – Version control and collaboration
-- **Figma / Canva / Illustrator** (optional) – Final touchups for infographic layout
-- **ffmpeg / OBS** – Video presentation recording
 
 ---
 
@@ -50,3 +44,16 @@ Developed using Dash:
 - **4+ UI controls** (Dropdowns, Sliders, Toggles)
 - Filter by organization type, year, country, and purpose
 - Explore spike years and launch trends interactively
+
+### 📊 Key Insights
+- 1950–1980s: Space dominated by superpower governments (USA, USSR)
+- Post-9/11: Surge in government surveillance & defense satellites
+- Post-2019: Rapid commercial expansion (e.g., SpaceX, OneWeb)
+- Private Sector: More efficient, innovative, and cost-effective than traditional government launches
+
+### 🛰️ Data Source
+📚 GCAT: General Catalog of Artificial Space Objects
+By Jonathan McDowell
+https://planet4589.org/space/gcat
+
+
