@@ -15,6 +15,8 @@ Using real satellite data from the GCAT catalog, we investigate:
 
 We deliver our findings via a professionally designed **infographic**, an **interactive dashboard**, and a **video presentation** aimed at educating the public at the Johnson Geo Centre’s “Our Future & Space” exhibit.
 
+*NOTE: Due to it being an academic project we aren't allowed to post the codes.*
+
 ---
 
 ## 🚀 Technologies Used
