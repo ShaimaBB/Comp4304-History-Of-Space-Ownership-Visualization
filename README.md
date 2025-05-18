@@ -22,20 +22,20 @@ We deliver our findings via a professionally designed **infographic**, an **inte
 ## 🚀 Technologies Used
 
 ### Programming & Visualization
-- **Pandas** – Data processing
+- **Pandas**  &  **Numpy** – Data processing
 - **Plotly** – Interactive charts & dashboard
 - **Matplotlib** – Static visualizations for infographic
 - **Seaborn** – Thematic styling for plots
 - **Dash** – Web-based interactive dashboard
-- **Jupyter Notebook** – Prototyping and rendering infographic
-- **Voila** (optional) – Convert notebooks into standalone apps
+- **Jupyter Notebook** 
 
 ---
 
-### Infographic 
-- Timeline of satellite ownership (Govt vs Military vs Private)
-- Launch surge patterns (e.g., Cold War, Post-9/11, COVID-era)
-- Visual highlights of the commercial space boom
+### Infographic - credit Nurul Islam
+It contains of three visualizations like
+- **Tree Graph** showing Major Launch Contributors through 1960s-Present
+- **Line-Dot Graph** showing Satellite Launch Trends by Ownership Type
+- **Sunburst Chart** showing Purpose of Satellite Launches
 ![WhatsApp Image 2025-04-10 at 9 10 33 PM (1)](https://github.com/user-attachments/assets/fb5adbad-f936-48c0-a0dc-c5373fb22daf)
 
 ### ✅ Interactive Dashboard
