@@ -2,7 +2,7 @@
 
 
 **COMP 4304 – Data Visualization Course Project**  
-🎓 Memorial University | 🌌 Johnson Geo Centre Exhibition
+
 
 ## 📌 Overview
 
@@ -31,6 +31,14 @@ We deliver our findings via a professionally designed **infographic**, an **inte
 
 ---
 
+###  Key Insights
+- 1950–1980s: Space dominated by superpower governments (USA, USSR)
+- Post-9/11: Surge in government surveillance & defense satellites
+- Post-2019: Rapid commercial expansion (e.g., SpaceX, OneWeb)
+- Private Sector: More efficient, innovative, and cost-effective than traditional government launches
+  
+---
+
 ### Infographic - credit Nurul Islam
 It contains of three visualizations like
 - **Tree Graph** showing Major Launch Contributors through 1960s-Present
@@ -38,18 +46,14 @@ It contains of three visualizations like
 - **Sunburst Chart** showing Purpose of Satellite Launches
 ![WhatsApp Image 2025-04-10 at 9 10 33 PM (1)](https://github.com/user-attachments/assets/fb5adbad-f936-48c0-a0dc-c5373fb22daf)
 
-### ✅ Interactive Dashboard
+### Interactive Dashboard
 Developed using Dash:
 - **3 dynamic visualizations**
 - **4+ UI controls** (Dropdowns, Sliders, Toggles)
 - Filter by organization type, year, country, and purpose
 - Explore spike years and launch trends interactively
-
-### 📊 Key Insights
-- 1950–1980s: Space dominated by superpower governments (USA, USSR)
-- Post-9/11: Surge in government surveillance & defense satellites
-- Post-2019: Rapid commercial expansion (e.g., SpaceX, OneWeb)
-- Private Sector: More efficient, innovative, and cost-effective than traditional government launches
+  
+---
 
 ### 🛰️ Data Source
 📚 GCAT: General Catalog of Artificial Space Objects
