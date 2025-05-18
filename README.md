@@ -30,13 +30,11 @@ We deliver our findings via a professionally designed **infographic**, an **inte
 
 ---
 
-## 🖼️ Deliverables
-
-### ✅ Infographic (36" x 24")
-A static poster built with Python, telling the story of:
+### Infographic 
 - Timeline of satellite ownership (Govt vs Military vs Private)
 - Launch surge patterns (e.g., Cold War, Post-9/11, COVID-era)
 - Visual highlights of the commercial space boom
+![WhatsApp Image 2025-04-10 at 9 10 33 PM (1)](https://github.com/user-attachments/assets/fb5adbad-f936-48c0-a0dc-c5373fb22daf)
 
 ### ✅ Interactive Dashboard
 Developed using Dash:
