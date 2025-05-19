@@ -35,7 +35,7 @@ Using real satellite data from the GCAT catalog, we investigate:
   
 ---
 ### Visualizations
-We deliver our findings via **infographic**, an **interactive dashboard**, and a **entire project video presentation** 
+We deliver our findings via **infographic**, an **interactive dashboard**, and a [**entire project video presentation**](https://drive.google.com/file/d/1GGdIOC7ElL-gY72d-PgMiwsfhlUtxpvK/view?usp=drive_link)
 
 ### Infographic - credit Nurul Islam
 It contains of three visualizations like
@@ -92,7 +92,7 @@ In 1999–2000, the dot-com boom, rising demand for GPS, and post–Cold War spa
 
 In contrast, the 2020s era reflects a new space race driven by commercial broadband mega-constellations like Starlink, rapid privatization, and the growing role of private tech companies in orbital infrastructure.
 
-*A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here*
+*A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found [here](https://drive.google.com/file/d/1WxdG19Li1m-vv37AGec5tFDG1oyr8cfd/view?usp=drive_link)*
 
 ### Simple Demo
 
