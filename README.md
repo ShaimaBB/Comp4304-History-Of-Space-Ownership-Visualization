@@ -1,19 +1,13 @@
 # Comp4304-History-Of-Space-Ownership-Visualization
 
-
-**COMP 4304 – Data Visualization Course Project**  
-
-
 ##  Overview
 
 This project explores the shifting power dynamics in space exploration—how satellite ownership evolved from government and military monopolies during the Cold War to a decentralized, commercialized space economy dominated by private corporations.
 
 Using real satellite data from the GCAT catalog, we investigate:
 - What historic events triggered spikes in satellite launches?
-- How did ownership patterns change from 1957 to the present?
+- How did ownership patterns change from 1960 to the present?
 - What role did private companies begin to play in the 21st century?
-
-We deliver our findings via a professionally designed **infographic**, an **interactive dashboard**, and a **video presentation** aimed at educating the public at the Johnson Geo Centre’s “Our Future & Space” exhibit.
 
 *NOTE: Due to it being an academic project we aren't allowed to post the codes.*
 
@@ -32,14 +26,14 @@ We deliver our findings via a professionally designed **infographic**, an **inte
 ---
 
 ###  Key Insights
-- 1950–1980s: Space dominated by superpower governments (USA, USSR)
+- 1960–1980s: Space dominated by superpower governments (USA, USSR)
 - Post-9/11: Surge in government surveillance & defense satellites
 - Post-2019: Rapid commercial expansion (e.g., SpaceX, OneWeb)
 - Private Sector: More efficient, innovative, and cost-effective than traditional government launches
   
 ---
 ### Visualizations
-This project contains two parts: Infographic and Interactive Dashboard
+We deliver our findings via **infographic**, an **interactive dashboard**, and a **video presentation**
 
 ### Infographic - credit Nurul Islam
 It contains of three visualizations like
