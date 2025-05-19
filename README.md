@@ -11,6 +11,8 @@ Using real satellite data from the GCAT catalog, we investigate:
 
 *NOTE: Due to it being an academic project we aren't allowed to post the codes.*
 
+*This is a group project. Created by Shaima Bashar and Nurul Islam*
+
 ---
 
 ##  Tech Stack
