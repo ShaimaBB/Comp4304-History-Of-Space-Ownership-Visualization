@@ -35,7 +35,7 @@ Using real satellite data from the GCAT catalog, we investigate:
   
 ---
 ### Visualizations
-We deliver our findings via **infographic**, an **interactive dashboard**, and a **video presentation**
+We deliver our findings via **infographic**, an **interactive dashboard**, and a **entire project video presentation** 
 
 ### Infographic - credit Nurul Islam
 It contains of three visualizations like
@@ -53,11 +53,12 @@ This interactive dashboard visualizes satellite launches across countries over t
 
 This dashboard reveals how global space activity has evolved, highlighting the geopolitical and technological shifts that shaped spacefaring nations. It gives a visual trace of the rise and fall of space powers, the shift from government to private dominance, and how satellite launch capacity has expanded globally over time.
 
+*A Detailed Video explanation using an example of how to use this interactive dashboard can be found here*
+
 ### Simple Demo
 
 https://github.com/user-attachments/assets/b8af1561-85b8-440d-b05a-b040372479b7
 
-*A Detailed Video explanation using an example of how to use this interactive dashboard can be found here*
 
 ---
 
@@ -73,12 +74,13 @@ The dashboard includes two visualization modes that offer unique perspectives. T
 
 A range slider below both charts enables users to focus on specific eras—whether it's the Cold War space race of the 1960s or the post-2010 rise of private space companies. Together, these visual tools tell a clear story of how the balance of power in space shifted from government-led exploration to market-driven expansion
 
-### Screenshort
+*A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here*
+
+### Screenshort of Chart
 
 ![Screenshot 2025-05-18 175059](https://github.com/user-attachments/assets/5411664a-a6bf-414b-953f-7c3a3ebf377b)
 ![Screenshot 2025-05-18 175133](https://github.com/user-attachments/assets/37885820-92eb-4ea4-a088-052c654d62b3)
 
-*A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here*
 
 ---
 
@@ -90,11 +92,12 @@ In 1999–2000, the dot-com boom, rising demand for GPS, and post–Cold War spa
 
 In contrast, the 2020s era reflects a new space race driven by commercial broadband mega-constellations like Starlink, rapid privatization, and the growing role of private tech companies in orbital infrastructure.
 
+*A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here*
+
 ### Simple Demo
 
 https://github.com/user-attachments/assets/a64bc706-39ec-458d-9a6a-4bf05d2447e6
 
-*A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here*
 
 ---
 
