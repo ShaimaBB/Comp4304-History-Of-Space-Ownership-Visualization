@@ -61,7 +61,7 @@ This dashboard reveals how global space activity has evolved, highlighting the g
 
 https://github.com/user-attachments/assets/b8af1561-85b8-440d-b05a-b040372479b7
 
-** A Deatailed Video explanation using an example of how to use this interactive dashboard can be found here**
+*A Detailed Video explanation using an example of how to use this interactive dashboard can be found here*
 
 ---
 
@@ -82,7 +82,7 @@ A range slider below both charts enables users to focus on specific eras—wheth
 ![Screenshot 2025-05-18 175059](https://github.com/user-attachments/assets/5411664a-a6bf-414b-953f-7c3a3ebf377b)
 ![Screenshot 2025-05-18 175133](https://github.com/user-attachments/assets/37885820-92eb-4ea4-a088-052c654d62b3)
 
-** A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here**
+*A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here*
 
 ---
 
@@ -98,7 +98,7 @@ In contrast, the 2020s era reflects a new space race driven by commercial broadb
 
 https://github.com/user-attachments/assets/a64bc706-39ec-458d-9a6a-4bf05d2447e6
 
-** A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here**
+*A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here*
 
 ---
 
