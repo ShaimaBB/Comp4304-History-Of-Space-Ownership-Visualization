@@ -52,6 +52,7 @@ It contains of three visualizations like
 It contains of three visualizations with interactive dashboards like:
 
 1. **GeoMap Chart and Line Graph** showing Satellite Launches by Country and their Count trend over time
+
 This interactive dashboard visualizes satellite launches across countries over time, segmented by sector (Government, Private, Military, Academic). It allows users to Select a sector and see which countries launched the most satellites in that category. Also, Hovering over any country to shows a line chart that showcases that country’s launch count trend over time in the selected sector. It reveals the first-time entries of emerging nations into the space scene, countries like Brazil, Argentina, Israel, and South Korea appear with their first-ever satellite launches, signaling a broader democratization of space.
 
 This dashboard reveals how global space activity has evolved, highlighting the geopolitical and technological shifts that shaped spacefaring nations. It gives a visual trace of the rise and fall of space powers, the shift from government to private dominance, and how satellite launch capacity has expanded globally over time.
@@ -60,10 +61,11 @@ This dashboard reveals how global space activity has evolved, highlighting the g
 
 https://github.com/user-attachments/assets/b8af1561-85b8-440d-b05a-b040372479b7
 
-**A Deatailed Video explanation using an example of how to use this interactive dashboard can be found here**
+** A Deatailed Video explanation using an example of how to use this interactive dashboard can be found here**
+
 --
 
-2.  **Scatter Plot and Bar Chart** showing the Reasons of the Rise of Private Sector Dominance in Space
+2. **Scatter Plot and Bar Chart** showing the Reasons of the Rise of Private Sector Dominance in Space
 
 This interactive dashboard explores how satellite **success rates** and **lifespan trends** have varied across four major sectors and how these differences have shaped the broader trajectory of space leadership.
 
@@ -80,7 +82,8 @@ A range slider below both charts enables users to focus on specific eras—wheth
 ![Screenshot 2025-05-18 175059](https://github.com/user-attachments/assets/5411664a-a6bf-414b-953f-7c3a3ebf377b)
 ![Screenshot 2025-05-18 175133](https://github.com/user-attachments/assets/37885820-92eb-4ea4-a088-052c654d62b3)
 
-**A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here**
+** A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here**
+
 --
 
 3. **Sunburst Chart** showing Satellite Launch Surge: 1999–2000 and 2020–2023
@@ -95,7 +98,7 @@ In contrast, the 2020s era reflects a new space race driven by commercial broadb
 
 https://github.com/user-attachments/assets/a64bc706-39ec-458d-9a6a-4bf05d2447e6
 
-** A Detailed Video Demo with explanation using an example of how to view this interactive dashboard can be found here**
+** A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here**
 
 ---
 
