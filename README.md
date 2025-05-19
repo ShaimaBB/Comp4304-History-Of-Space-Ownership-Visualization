@@ -4,7 +4,7 @@
 **COMP 4304 – Data Visualization Course Project**  
 
 
-## 📌 Overview
+##  Overview
 
 This project explores the shifting power dynamics in space exploration—how satellite ownership evolved from government and military monopolies during the Cold War to a decentralized, commercialized space economy dominated by private corporations.
 
@@ -19,7 +19,7 @@ We deliver our findings via a professionally designed **infographic**, an **inte
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Programming & Visualization
 - **Pandas**  &  **Numpy** – Data processing
@@ -62,7 +62,7 @@ This dashboard reveals how global space activity has evolved, highlighting the g
 https://github.com/user-attachments/assets/b8af1561-85b8-440d-b05a-b040372479b7
 
 ** A Deatailed Video explanation using an example of how to use this interactive dashboard can be found here**
-
+.
 --
 
 2. **Scatter Plot and Bar Chart** showing the Reasons of the Rise of Private Sector Dominance in Space
@@ -83,7 +83,7 @@ A range slider below both charts enables users to focus on specific eras—wheth
 ![Screenshot 2025-05-18 175133](https://github.com/user-attachments/assets/37885820-92eb-4ea4-a088-052c654d62b3)
 
 ** A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here**
-
+.
 --
 
 3. **Sunburst Chart** showing Satellite Launch Surge: 1999–2000 and 2020–2023
