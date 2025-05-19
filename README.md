@@ -53,7 +53,7 @@ This interactive dashboard visualizes satellite launches across countries over t
 
 This dashboard reveals how global space activity has evolved, highlighting the geopolitical and technological shifts that shaped spacefaring nations. It gives a visual trace of the rise and fall of space powers, the shift from government to private dominance, and how satellite launch capacity has expanded globally over time.
 
-*A Detailed Video explanation using an example of how to use this interactive dashboard can be found here*
+*A Detailed Video explanation using an example of how to use this interactive dashboard can be found here[https://drive.google.com/file/d/1XegisSyfkgccL3Z5SnGf-XZii9hadY35/view?usp=drive_link]*
 
 ### Simple Demo
 
@@ -74,7 +74,7 @@ The dashboard includes two visualization modes that offer unique perspectives. T
 
 A range slider below both charts enables users to focus on specific eras—whether it's the Cold War space race of the 1960s or the post-2010 rise of private space companies. Together, these visual tools tell a clear story of how the balance of power in space shifted from government-led exploration to market-driven expansion
 
-*A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here*
+*A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here[https://drive.google.com/file/d/1JbZZPy7n3rKb79MfJ0ONVwhL6pQXZT_y/view?usp=drive_link]*
 
 ### Screenshort of Chart
 
@@ -101,7 +101,7 @@ https://github.com/user-attachments/assets/a64bc706-39ec-458d-9a6a-4bf05d2447e6
 
 ---
 
-### 🛰️ Data Source
+### Data Source
 All the datasets used in the project are from:
 GCAT: General Catalog of Artificial Space Objects
 By Jonathan McDowell
