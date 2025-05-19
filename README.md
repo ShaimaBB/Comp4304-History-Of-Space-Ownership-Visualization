@@ -19,7 +19,7 @@ We deliver our findings via a professionally designed **infographic**, an **inte
 
 ---
 
-## 🚀 Technologies Used
+## 🚀 Tech Stack
 
 ### Programming & Visualization
 - **Pandas**  &  **Numpy** – Data processing
@@ -38,6 +38,8 @@ We deliver our findings via a professionally designed **infographic**, an **inte
 - Private Sector: More efficient, innovative, and cost-effective than traditional government launches
   
 ---
+### Visualizations
+This project contains two parts: Infographic and Interactive Dashboard
 
 ### Infographic - credit Nurul Islam
 It contains of three visualizations like
@@ -54,11 +56,12 @@ This interactive dashboard visualizes satellite launches across countries over t
 
 This dashboard reveals how global space activity has evolved, highlighting the geopolitical and technological shifts that shaped spacefaring nations. It gives a visual trace of the rise and fall of space powers, the shift from government to private dominance, and how satellite launch capacity has expanded globally over time.
 
-### video demo
+### Simple Demo
 
 https://github.com/user-attachments/assets/b8af1561-85b8-440d-b05a-b040372479b7
 
-*Video explanation with example of how to view this interactive dashboard can be found here*
+**A Deatailed Video explanation using an example of how to use this interactive dashboard can be found here**
+--
 
 2.  **Scatter Plot and Bar Chart** showing the Reasons of the Rise of Private Sector Dominance in Space
 
@@ -77,7 +80,8 @@ A range slider below both charts enables users to focus on specific eras—wheth
 ![Screenshot 2025-05-18 175059](https://github.com/user-attachments/assets/5411664a-a6bf-414b-953f-7c3a3ebf377b)
 ![Screenshot 2025-05-18 175133](https://github.com/user-attachments/assets/37885820-92eb-4ea4-a088-052c654d62b3)
 
-*Video demo with explanation with an example of how to view this interactive dashboard can be found here*
+**A Detailed Video Demo with explanation using an example of how to use this interactive dashboard can be found here**
+--
 
 3. **Sunburst Chart** showing Satellite Launch Surge: 1999–2000 and 2020–2023
    
@@ -87,11 +91,11 @@ In 1999–2000, the dot-com boom, rising demand for GPS, and post–Cold War spa
 
 In contrast, the 2020s era reflects a new space race driven by commercial broadband mega-constellations like Starlink, rapid privatization, and the growing role of private tech companies in orbital infrastructure.
 
-### video demo
+### Simple Demo
 
 https://github.com/user-attachments/assets/a64bc706-39ec-458d-9a6a-4bf05d2447e6
 
-*Video demo with explanation with an example of how to view this interactive dashboard can be found here*
+** A Detailed Video Demo with explanation using an example of how to view this interactive dashboard can be found here**
 
 ---
 
